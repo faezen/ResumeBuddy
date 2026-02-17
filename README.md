@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🚀 ResumeBuddy</h1>
+  <h1 align="center">🚀 ResumeChad</h1>
   <p align="center"><strong>Beat the Bots. Land the Interview.</strong></p>
   <p align="center">A privacy-first ATS Resume Optimizer that rewrites your resume to score 80%+ on Applicant Tracking Systems — powered by Google Gemini AI.</p>
 </p>
@@ -7,18 +7,18 @@
 ---
 ## 🌐 Try It Instantly
 
-No installation required! You can use the full version of ResumeBuddy directly in your browser:
+No installation required! You can use the full version of ResumeChad directly in your browser:
 
-### 👉 **[https://resumebuddy-eta.vercel.app/](https://resumebuddy-eta.vercel.app/)**
+### 👉 **[http://resumechad.vercel.app/](http://resumechad.vercel.app/)**
 
 > **Note:** The live version works exactly like the local version. It is **Client-Side Only**, meaning your data stays in your browser and never touches our servers. You just need your own free API key.
 
 ---
-## ✨ What Does ResumeBuddy Do?
+## ✨ What Does ResumeChad Do?
 
 Most companies use software called an **ATS (Applicant Tracking System)** to screen resumes before a human ever sees them. If your resume doesn't match the job description closely enough, it gets rejected automatically — even if you're perfectly qualified.
 
-**ResumeBuddy fixes that.** You paste a job description, and it:
+**ResumeChad fixes that.** You paste a job description, and it:
 
 - 🎯 **Rewrites your resume** with the exact keywords the ATS is looking for
 - 📊 **Scores your resume** (0-100) across Keyword Match, Formatting, and Job Alignment
@@ -30,7 +30,7 @@ Most companies use software called an **ATS (Applicant Tracking System)** to scr
 
 ## 🔒 Privacy First — Your Data Stays With You
 
-Unlike other resume tools, ResumeBuddy:
+Unlike other resume tools, ResumeChad:
 
 - ❌ Does NOT upload your resume to any server
 - ❌ Does NOT store your data in any cloud
@@ -53,10 +53,10 @@ Unlike other resume tools, ResumeBuddy:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nicepicgorl-jpeg/ResumeBuddy.git
+git clone https://github.com/nicepicgorl-jpeg/ResumeChad.git
 
 # 2. Navigate into the project
-cd ResumeBuddy
+cd ResumeChad
 
 # 3. Install dependencies
 npm install
@@ -80,7 +80,7 @@ Don't worry if you've never used a terminal before. Follow these steps exactly:
 3. Run the installer — click **Next → Next → Next → Install**
 4. Restart your computer
 
-### Step 2: Download ResumeBuddy
+### Step 2: Download ResumeChad
 
 1. On this page, click the green **"Code"** button (top right area)
 2. Click **"Download ZIP"**
@@ -96,7 +96,7 @@ Don't worry if you've never used a terminal before. Follow these steps exactly:
 Type these commands one at a time, pressing Enter after each:
 
 ```
-cd Desktop/ResumeBuddy-main
+cd Desktop/ResumeChad-main
 npm install
 npm run dev
 ```
@@ -107,7 +107,7 @@ npm run dev
 
 Open your browser and go to: **http://localhost:3000**
 
-You should see the ResumeBuddy landing page! 🎉
+You should see the ResumeChad landing page! 🎉
 
 ### Step 6: Get Your Free API Key
 
@@ -115,14 +115,14 @@ You should see the ResumeBuddy landing page! 🎉
 2. Sign in with your Google account
 3. Click **"Create API Key"**
 4. Copy the key
-5. In ResumeBuddy, click **Settings** (gear icon in sidebar)
+5. In ResumeChad, click **Settings** (gear icon in sidebar)
 6. Paste your key and save
 
 > 💡 This key is free and stays in your browser. We never see it.
 
 ---
 
-## 📖 How to Use ResumeBuddy
+## 📖 How to Use ResumeChad
 
 ### 1. Fill Your Master Profile
 
