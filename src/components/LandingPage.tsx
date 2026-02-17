@@ -9,7 +9,7 @@ export default function LandingPage() {
         <div className="landing">
             {/* Navbar */}
             <nav className="landing-nav">
-                <div className="brand">Resume<span>Buddy</span></div>
+                <div className="brand">Resume<span>Chad</span></div>
                 <button
                     className="hero-cta"
                     style={{ padding: '10px 24px', fontSize: '0.88rem' }}
