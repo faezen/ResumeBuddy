@@ -9,7 +9,7 @@
 
 No installation required! You can use the full version of ResumeChad directly in your browser:
 
-### 👉 **[http://resumechad.vercel.app/](http://resumechad.vercel.app/)**
+### 👉 **[https://resumechad.vercel.app/](https://resumechad.vercel.app/)**
 
 > **Note:** The live version works exactly like the local version. It is **Client-Side Only**, meaning your data stays in your browser and never touches our servers. You just need your own free API key.
 
