@@ -60,7 +60,7 @@ export default function SettingsView() {
                 }}>
                     <strong style={{ color: 'var(--text-secondary)' }}>🔒 Privacy First</strong><br />
                     Your API key is stored locally in your browser using <code>localStorage</code>. It is sent directly
-                    from your browser to Google&apos;s Gemini API — ResumeBuddy never sees or stores it on any server.
+                    from your browser to Google&apos;s Gemini API — ResumeChad never sees or stores it on any server.
                     <br /><br />
                     Get a free key from{' '}
                     <a

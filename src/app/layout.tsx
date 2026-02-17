@@ -4,7 +4,7 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ResumeBuddy — ATS Resume Optimizer",
+  title: "ResumeChad — ATS Resume Optimizer",
   description: "Privacy-first, BYOK ATS Resume Optimizer. Your data stays in your browser.",
 };
 

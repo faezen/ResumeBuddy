@@ -99,7 +99,7 @@ export interface CoverLetter {
 
 // --- Database ---
 
-const db = new Dexie('ResumeBuddyDB') as Dexie & {
+const db = new Dexie('ResumeChadDB') as Dexie & {
     masterProfile: EntityTable<MasterProfile, 'id'>;
     jobDescriptions: EntityTable<JobDescription, 'id'>;
     resumes: EntityTable<OptimizedResume, 'id'>;

@@ -27,7 +27,7 @@ export const useAppStore = create<AppState>()(
             toggleTheme: () => set((s) => ({ theme: s.theme === 'light' ? 'dark' : 'light' })),
         }),
         {
-            name: 'resumebuddy-settings',
+            name: 'resumechad-settings',
             partialize: (state) => ({ apiKey: state.apiKey, theme: state.theme }),
         }
     )

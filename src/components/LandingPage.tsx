@@ -32,7 +32,7 @@ export default function LandingPage() {
                         Land the <span className="highlight">Interview.</span>
                     </h1>
                     <p>
-                        ResumeBuddy rewrites your resume to pass Applicant Tracking Systems with an 80%+ match score.
+                        ResumeChad rewrites your resume to pass Applicant Tracking Systems with an 80%+ match score.
                         Privacy-first — your data never leaves your browser.
                     </p>
                     <button className="hero-cta" onClick={() => setActiveView('profile')}>

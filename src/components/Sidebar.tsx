@@ -63,7 +63,7 @@ export default function Sidebar() {
     return (
         <aside className="sidebar">
             <div className="sidebar-brand">
-                <h1>ResumeBuddy</h1>
+                <h1>ResumeChad</h1>
                 <p>ATS Optimizer • BYOK</p>
             </div>
 
