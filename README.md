@@ -190,6 +190,20 @@ Every optimization is saved automatically. Go to **History** to compare scores a
 
 ---
 
+
+## 📚 Documentation
+
+Comprehensive project docs are available in [`docs/`](docs):
+
+- Project Overview
+- Codebase Guide
+- Architecture
+- Code Audit
+- Security Audit
+- Dependencies & Cleanup
+- Optimization & Refactoring
+- Roadmap
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
